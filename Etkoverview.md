@@ -27,6 +27,6 @@ The toolkit is accompanied by a set of resources to support users through the ad
 * Android and offline adaption
 * Training material (Academy content, trainer’s guides, webinars)
 
-To access the toolkit visit: Add the link here.
+To access the toolkit visit: https://emis.dhis2.org/demo
 
 For more information: Please email us at [emis@dhis2.org](mailto:emis@dhis2.org) 
