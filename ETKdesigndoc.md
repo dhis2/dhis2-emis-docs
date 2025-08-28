@@ -14,7 +14,7 @@ These data can be widely useful for planning resource allocation, identifying bo
 
 ## Objective
 
-Having a standard education toolkit is expected to support countries in standardise their data collection and information use. The toolkit is aimed at pointing countries to the bare minimum data needed to be collected in order to be able to monitor sustainable development goal 4 and the continental education strategy for Africa. This in turn will bring countries closer toward the goal of inclusive and equitable education and promoting lifelong opportunities for all.
+Having a standard education toolkit is expected to support countries in standardizing their data collection and information use. The toolkit is aimed at pointing countries to the bare minimum data needed to be collected in order to be able to monitor -  Sustainable Development Goal 4 (SDG 4) and The African Union's Continental Education Strategy for Africa (CESA). This in turn will bring countries closer toward the goal of inclusive and equitable education and promoting lifelong opportunities for all.
 
 ## Content and alignment with other tools
 
@@ -104,31 +104,31 @@ This dashboard features visual representations of data routinely gathered from p
 
 ![](ETK/pas.png)
 
-### Lower Secondary School annual school census dashboard
+### Lower Secondary School and Annual School Census Dashboard
 
 This dashboard provides visual representations of data collected routinely from lower secondary schools. It is a valuable resource for monitoring and planning with regard to lower secondary schools, taking into consideration enrollment requirements, students with special needs, attendance, infrastructure, and other relevant factors.
 
 ![](ETK/lss.png)
 
-### Upper Secondary School annual school census dashboard
+### Upper Secondary School and Annual School Census Dashboard
 
 This dashboard showcases visualizations derived from the regular data collected from upper secondary schools. It serves as a valuable tool for monitoring and planning for upper secondary schools, addressing aspects such as enrollment requirements, special needs students, attendance, infrastructure, and other pertinent factors.
 
 ![](ETK/usl.png)
 
-### Sustainable Development Goal 4 dashboard
+### Sustainable Development Goal 4 (SDG 4) dashboard
 
 Countries can employ this dashboard to track their advancement in achieving the SDG4 objective of ensuring inclusive and equitable access to education and promoting lifelong opportunities for all. The dashboard encompasses progress related to completion rates, gross enrolment ratios, gross intake ratios, out-of-school rates, pupil-teacher ratios, and other relevant metrics.
 
 ![](ETK/sdg4.png)
 
-### Continental Education Strategy for Africa (CESA) dashboard
+### The African Union's Continental Education Strategy for Africa (CESA) dashboard
 
 Countries can utilize this dashboard to track their advancement with respect to the African Union's CESA framework, which was established to oversee the evolution of education systems in the African region
 
 ![](ETK/cesa.png)
 
-### Technical and Vocational Training Institutions
+### Technical and Vocational Training Institutions Dashboard
 
 This dashboard presents key education statistics for Technical and Vocational Education and Training (TVET) institutions. It provides an overview of student enrolment, completion, staffing, and expenditure, helping policymakers and managers track progress and identify gaps.
 
