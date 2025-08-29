@@ -1,4 +1,4 @@
-# **Education Toolkit Installation Guide**
+# Education Toolkit Installation Guide
 
 ## Overview
 
@@ -22,7 +22,9 @@ It is recommended to first read through each section of the installation guide b
 
 2. Import into a DHIS2 instance with existing metadata.
 
-The steps outlined in this document should be tested in a test/staging DHIS2 instance and only then applied to a production environment.
+> **Warning**
+> 
+> The steps outlined in this document should be tested in a test/staging DHIS2 instance and only then applied to a production environment.
 
 ## Requirements
 
@@ -63,7 +65,9 @@ If the "dry run"/"validate" import works without error, attempt to import the me
 
 ### Handling import conflicts
 
-> **NOTE** If you are importing the package into a new DHIS2 instance, you will not experience import conflicts, as there is no metadata in the target database. After import the metadata, proceed to the “[Configuration](#configuration)” section.
+> **Note** 
+> 
+> If you are importing the package into a new DHIS2 instance, you will not experience import conflicts, as there is no metadata in the target database. After import the metadata, proceed to the “[Configuration](#ETK-toolkit-configuration)” section.
 
 There are a number of different conflicts that may occur, though the most common is that there are metadata objects in the configuration package with a name, shortname and/or code that already exist in the target database. There are a couple of alternative solutions to these problems, with different advantages and disadvantages. Which one is more appropriate will depend, for example, on the type of object for which a conflict occurs.
 
@@ -75,6 +79,8 @@ Rename the existing object in your DHIS2 database for which there is a conflict.
 
 Rename the object for which there is a conflict in the .json file. The advantage of this approach is that the existing DHIS2 metadata is left as-is. This can be a factor when there is training material or documentation such as SOPs of data dictionaries linked to the object in question, and it does not involve any risk of confusing users by modifying the metadata they are familiar with.
 
+> **Tip**
+> 
 > Note that for both alternative 1 and 2, the modification can be as simple as adding a small pre/post-fix to the name, to minimise the risk of confusion.
 
 #### Alternative 3
@@ -87,7 +93,7 @@ A third and more complicated approach is to modify the .json file to re-use exis
 
 - Future updates to the configuration package will be complicated.
 
-## Configuration
+## Configuration { #ETK-toolkit-configuration }
 
 Once all metadata has been successfully imported, there are a few steps that need to be taken before the module is functional.
 
@@ -130,13 +136,15 @@ When implementing the *dashboard package* only, the indicator numerators and den
 
 ### Duplicated metadata
 
-> **NOTE**: This section only applies if you are importing into a DHIS2 database with existing metadata. If you are working with a new/blank DHIS2 instance, please skip this section and go to [Adapting the program](#adapting-the-program).If you are using any third party applications that rely on the current metadata, please take into account that this update could break them”
+> **Caution**
+> 
+> This section only applies if you are importing into a DHIS2 database with existing metadata. If you are working with a new/blank DHIS2 instance, please skip this section and go to [Adapting the toolkit](#adapting-the-ETK-toolkit). If you are using any third party applications that rely on the current metadata, please take into account that this update could break them”
 
 Even when metadata has been successfully imported without any import conflicts, there can be duplicates in the metadata - data elements, tracked entity attributes or option sets that already exist. As was noted in the section above on resolving conflict, an important issue to keep in mind is that decisions on making changes to the metadata in DHIS2 also needs to take into account other documents and resources that are in different ways associated with both the existing metadata, and the metadata that has been imported through the configuration package. Resolving duplicates is thus not only a matter of "cleaning up the database", but also making sure that this is done without, for example, breaking potential integrating with other systems, the possibility to use training material, breaking SOPs etc. This will very much be context-dependent.
 
 One important thing to keep in mind is that DHIS2 has tools that can hide some of the complexities of potential duplications in metadata. For example, where duplicate option sets exist, they can be hidden for groups of users through sharing.
 
-## Adapting the toolkit
+## Adapting the toolkit { #adapting-the-ETK-toolkit }
 
 Once the toolkit has been imported, you might want to make certain modifications to the program. Examples of local adaptations that **could** be made include:
 

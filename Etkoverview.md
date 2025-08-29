@@ -1,4 +1,4 @@
-# **DHIS2 Education Toolkit**
+# DHIS2 Education Toolkit
 
 Data dissemination and feedback to those who collect data is important to improve data use and performance at district and school levels. International reporting can often put pressure on frontline education officers and schools to report data upward. The toolkit has been designed with the aim that those who collect the data receive timely access to analyzed data, to address local challenges and data needs. The toolkit contributes towards cultivating a culture where data collection is not only for reporting purposes, but also for action.
 
