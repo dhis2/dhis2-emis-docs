@@ -1,4 +1,4 @@
-# **Education Toolkit Design Documentation**
+# Education Toolkit Design Documentation
 
 ## Overview
 
@@ -7,8 +7,8 @@ The Education toolkit collects both routine and survey education data that can b
 * At **school level**; the toolkit collects routine information similar to the annual school census forms such as enrolment numbers, new entrants, repeaters, attendance and more.  
 * At **district level** the toolkit collects; 
   
-   1. Population data broken down by age group and sex; this feeds into indicators such as gross and net enrolment ratios,
-   2. Survey data that focusing on proficiency, educational attainment, ICT skills and more. 
+    1. Population data broken down by age group and sex; this feeds into indicators such as gross and net enrolment ratios,
+    2. Survey data that focusing on proficiency, educational attainment, ICT skills and more. 
 
 These data can be widely useful for planning resource allocation, identifying bottlenecks in service delivery and education budget allocation.
 
@@ -23,6 +23,7 @@ The education toolkit contains 8 datasets data variables about the schools and c
 These datasets include:
 
 Annual School Census for the different school levels:
+
 * ECD
 * Primary
 * Lower Secondary
@@ -30,10 +31,12 @@ Annual School Census for the different school levels:
 * Tertiary institutions
 
 District-level datasets:
+
 * Population
 * Surveys
 
-National level dataset
+National level dataset:
+
 * National expenditure
 
 Many elements of the tools are aligned to a subset of questions from SDG4 and CESA indicators. 
@@ -62,28 +65,29 @@ The design builds on previous experience from countries using education data.
 
 * Uses the **aggregate model** of DHIS2  
 * Datasets are reported from respective administrative levels:
-  1. Annual School Census for the different school levels:
-     * ECD
-     * Primary  
-     * Lower Secondary  
-     * Upper Secondary  
-     * Tertiary institutions  
 
-  2. District-level datasets:
-     * Population  
-     * Surveys  
+    1. Annual School Census for the different school levels:
+        * ECD
+        * Primary  
+        * Lower Secondary  
+        * Upper Secondary  
+        * Tertiary institutions  
 
-  3. National-level dataset:
-     * National expenditure  
+    2. District-level datasets:
+        * Population  
+        * Surveys  
+
+    3. National-level dataset:
+        * National expenditure  
 
 * Datasets are **sectioned** to ease the process of data entry  
 * **Custom forms** are used based on the level of disaggregation of education data.
 * There are 8 datasets in total
 * Dataset sections are used to group sets of questions related to a thematic area, such as enrolment or staff 
   
-  * School level data capture
-  * District level data capture
-  * National level data capture
+    * School level data capture
+    * District level data capture
+    * National level data capture
 
 ## Analytics
 
