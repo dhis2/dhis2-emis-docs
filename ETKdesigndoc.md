@@ -24,7 +24,7 @@ These datasets include:
 
 Annual School Census for the different school levels:
 
-* ECD
+* ECD (Early Childhood Development)
 * Primary
 * Lower Secondary
 * Upper Secondary
