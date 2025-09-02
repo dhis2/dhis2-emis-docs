@@ -26,7 +26,7 @@ To log into the DHIS2-EMIS
 
 1. Launch Google Chrome or Firefox Web browser on your device.
 
-   ![](ETK/images/image4.png){ width=100px }
+   ![](ETK/images/image4.png){width=100px }
 
 2. In the address bar, type the web address https://emis.dhis2.org/demo and then press Enter
 3. Wait for the page to load. If you see a page similar to the one below, you have successfully connected to the DHIS2-EMIS.

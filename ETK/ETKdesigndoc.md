@@ -112,25 +112,25 @@ This dashboard features visual representations of data routinely gathered from p
 
 This dashboard provides visual representations of data collected routinely from lower secondary schools. It is a valuable resource for monitoring and planning with regard to lower secondary schools, taking into consideration enrollment requirements, students with special needs, attendance, infrastructure, and other relevant factors.
 
-![](ETK/images/lss.png)
+![](ETK/lss.png)
 
 ### Upper Secondary School and Annual School Census Dashboard
 
 This dashboard showcases visualizations derived from the regular data collected from upper secondary schools. It serves as a valuable tool for monitoring and planning for upper secondary schools, addressing aspects such as enrollment requirements, special needs students, attendance, infrastructure, and other pertinent factors.
 
-![](ETK/images/usl.png)
+![](ETK/usl.png)
 
 ### Sustainable Development Goal 4 (SDG 4) dashboard
 
 Countries can employ this dashboard to track their advancement in achieving the SDG4 objective of ensuring inclusive and equitable access to education and promoting lifelong opportunities for all. The dashboard encompasses progress related to completion rates, gross enrolment ratios, gross intake ratios, out-of-school rates, pupil-teacher ratios, and other relevant metrics.
 
-![](ETK/images/sdg4.png)
+![](ETK/sdg4.png)
 
 ### The African Union's Continental Education Strategy for Africa (CESA) dashboard
 
 Countries can utilize this dashboard to track their advancement with respect to the African Union's CESA framework, which was established to oversee the evolution of education systems in the African region
 
-![](ETK/images/cesa.png)
+![](ETK/cesa.png)
 
 ### Technical and Vocational Training Institutions Dashboard
 
