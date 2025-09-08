@@ -1,6 +1,6 @@
 # EMIS Section within Implementaion documentation
 #
-- Toolkit Overview: '@github(dhis2/dhis2-emis-docs, Etkoverview.md, main)'
-- Design: '@github(dhis2/dhis2-emis-docs, ETKdesigndoc.md, main)'
-- Installation: '@github(dhis2/dhis2-emis-docs, ETKinstallationguide.md, main)'
-- User Guide: '@github(dhis2/dhis2-emis-docs, ETKuserguide.md, main)'
+- Toolkit Overview: '@github(dhis2/dhis2-emis-docs, ETK/ETKoverview.md, main)'
+- Design: '@github(dhis2/dhis2-emis-docs, ETK/ETKdesigndoc.md, main)'
+- Installation: '@github(dhis2/dhis2-emis-docs, ETK/ETKinstallationguide.md, main)'
+- User Guide: '@github(dhis2/dhis2-emis-docs, ETK/ETKuserguide.md, main)'
