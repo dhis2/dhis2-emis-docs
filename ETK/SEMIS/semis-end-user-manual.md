@@ -1,8 +1,8 @@
 # User Manual – Student Education Management Information System (SEMIS)
 
-# Table of Contents
+
+Table of Content
 - [User Manual – Student Education Management Information System (SEMIS)](#user-manual--student-education-management-information-system-semis)
-- [Table of Contents](#table-of-contents)
 - [Introduction and Overview](#introduction-and-overview)
 - [Installation of the SEMIS App](#installation-of-the-semis-app)
 - [Logging In](#logging-in)
@@ -31,6 +31,7 @@
       - [Incoming Staff Transfer](#incoming-staff-transfer)
     - [Staff Re-Enroll](#staff-re-enroll)
 - [Configuration Module](#configuration-module)
+
 
 
 # Introduction and Overview
