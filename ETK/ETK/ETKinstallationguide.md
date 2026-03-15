@@ -93,7 +93,7 @@ A third and more complicated approach is to modify the .json file to re-use exis
 
 - Future updates to the configuration package will be complicated.
 
-## Configuration { #ETK-toolkit-configuration }
+## Configuration
 
 Once all metadata has been successfully imported, there are a few steps that need to be taken before the module is functional.
 
