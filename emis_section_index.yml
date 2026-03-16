@@ -8,3 +8,4 @@
 # SEMIS Documentation
 - SEMIS:
   - User Guide: '@github(dhis2/dhis2-emis-docs, SEMIS/SEMIS_UserGuide.md,main)'
+  - SEMIS Configuartion: '@github(dhis2/dhis2-emis-docs, SEMIS/SEMIS_ConfigManual.md,main)'
