@@ -1,38 +1,4 @@
-# User Manual – Student Education Management Information System (SEMIS)
-
-
-Table of Content
-- [User Manual – Student Education Management Information System (SEMIS)](#user-manual--student-education-management-information-system-semis)
-- [Introduction and Overview](#introduction-and-overview)
-- [Installation of the SEMIS App](#installation-of-the-semis-app)
-- [Logging In](#logging-in)
-- [Log Out](#log-out)
-- [DHIS2 SEMIS Navigation](#dhis2-semis-navigation)
-- [Student Data Entry in SEMIS App](#student-data-entry-in-semis-app)
-  - [Enrollment](#enrollment)
-    - [Search for an Existing Student](#search-for-an-existing-student)
-    - [Enroll a New Student](#enroll-a-new-student)
-      - [Single Student Enrollment](#single-student-enrollment)
-      - [Bulk Enrollment](#bulk-enrollment)
-  - [Attendance Module](#attendance-module)
-    - [Viewing Attendance Records](#viewing-attendance-records)
-    - [Bulk Attendance](#bulk-attendance)
-  - [Performance Module](#performance-module)
-  - [Final Result and Promotion Module](#final-result-and-promotion-module)
-  - [Transfer Module](#transfer-module)
-    - [Outgoing Transfer](#outgoing-transfer)
-    - [Incoming Transfer](#incoming-transfer)
-  - [Staff Data Entry in SEMIS App](#staff-data-entry-in-semis-app)
-    - [Staff Registry](#staff-registry)
-      - [Registers new staff members.](#registers-new-staff-members)
-    - [Staff Attendance](#staff-attendance)
-    - [Staff Transfer](#staff-transfer)
-      - [Outgoing Staff Transfer](#outgoing-staff-transfer)
-      - [Incoming Staff Transfer](#incoming-staff-transfer)
-    - [Staff Re-Enroll](#staff-re-enroll)
-- [Configuration Module](#configuration-module)
-
-
+# User Guide - Learner Tracker - Student Education Management Information System (SEMIS) 
 
 # Introduction and Overview
 
