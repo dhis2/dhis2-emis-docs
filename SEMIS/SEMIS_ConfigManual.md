@@ -1,4 +1,4 @@
-# SEMIS – Configuration Manual
+# SEMIS (Learner Tracker) – Configuration Manual
 
 # Introduction
 
