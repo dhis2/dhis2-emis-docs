@@ -1,43 +1,4 @@
-
-
 # SEMIS – Configuration Manual
-
-- [SEMIS – Configuration Manual](#semis--configuration-manual)
-- [Introduction](#introduction)
-- [User Roles and Access Requirements.](#user-roles-and-access-requirements)
-- [How to Access SEMIS Configuration](#how-to-access-semis-configuration)
-  - [**Steps to Access Configuration**](#steps-to-access-configuration)
-  - [**Recommended Steps for Configuration:**](#recommended-steps-for-configuration)
-- [Module Activation](#module-activation)
-- [School Calendar Configuration](#school-calendar-configuration)
-  - [**Accessing the School Calendar**](#accessing-the-school-calendar)
-  - [**Creating a New Academic Year**](#creating-a-new-academic-year)
-  - [**Viewing and Configuring Academic Year Details**](#viewing-and-configuring-academic-year-details)
-    - [**Configuring School Days under General Details**](#configuring-school-days-under-general-details)
-    - [**Configuring School Terms**](#configuring-school-terms)
-    - [**Configuring Non-School Days**](#configuring-non-school-days)
-    - [**Steps** {#steps}](#steps-steps)
-- [Validation Checklist Before Using the Calendar](#validation-checklist-before-using-the-calendar)
-- [Student Configuration Overview](#student-configuration-overview)
-  - [**Accessing Student Configuration**](#accessing-student-configuration)
-  - [**Student Modules**](#student-modules)
-    - [**Enrollment**](#enrollment)
-    - [**Attendance**](#attendance)
-    - [**Performance**](#performance)
-    - [**Transfer**](#transfer)
-    - [**Final Result**](#final-result)
-- [Staff Configuration Overview](#staff-configuration-overview)
-  - [**Accessing Staff Configuration**](#accessing-staff-configuration)
-    - [**Staff Registry**](#staff-registry)
-    - [**Attendance**](#attendance-1)
-    - [**Transfer**](#transfer-1)
-    - [**Re-enroll**](#re-enroll)
-- [Cross-Cutting Config Dependencies](#cross-cutting-config-dependencies)
-  - [**School Calendar Dependency**](#school-calendar-dependency)
-  - [**Enrollment Mapping Dependency**](#enrollment-mapping-dependency)
-  - [**Final Result Configuration Dependency**](#final-result-configuration-dependency)
-  - [**Transfer Configuration Dependency**](#transfer-configuration-dependency)
-
 
 # Introduction
 
