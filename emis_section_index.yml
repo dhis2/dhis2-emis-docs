@@ -7,5 +7,5 @@
   - User Guide: '@github(dhis2/dhis2-emis-docs, ETK/ETKuserguide.md, main)'
 # SEMIS Learner Tracker Documentation
 - SEMIS:
-  - User Guide: '@github(dhis2/dhis2-emis-docs, SEMIS/SEMIS_UserGuide.md,main)'
+  - User Guide: '@github(dhis2/dhis2-emis-docs, SEMIS/Semis_UserGuide.md,main)'
   - SEMIS Configuartion: '@github(dhis2/dhis2-emis-docs, SEMIS/SEMIS_ConfigManual.md,main)'
