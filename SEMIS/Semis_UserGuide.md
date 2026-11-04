@@ -30,7 +30,7 @@ Your administrator must install the SEMIS app and configure access and the requi
 4. Enter your assigned username and password.
 5. Click **Log in**.
 
-![Log in: reference image 1](SEMISimages/01_log_in.png)
+   ![Log in: reference image 1](SEMISimages/01_log_in.png)
 
 > **Note**
 >
